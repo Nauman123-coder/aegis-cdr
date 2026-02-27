@@ -205,3 +205,14 @@ async def health():
         "ui": "http://localhost:8000",
         "supported_formats": ["PDF", "DOCX"],
     }
+
+
+@app.get("/ping")
+async def ping():
+    """
+    Lightweight keep-alive endpoint.
+    Ping this every 14 minutes with UptimeRobot (free) to prevent
+    Render free tier from sleeping after 15 minutes of inactivity.
+    URL to monitor: https://your-app.onrender.com/ping
+    """
+    return {"pong": True}
