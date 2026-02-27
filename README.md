@@ -35,10 +35,21 @@
 
 <br/>
 
+[![🛡️ Live Demo](https://img.shields.io/badge/🛡️_Live_Demo-web--production--a4b0e.up.railway.app-00d4ff?style=for-the-badge&logo=railway&logoColor=white)](https://web-production-a4b0e.up.railway.app/)
+
+<br/>
+
 > **Aegis-CDR** is not a virus scanner — it's a **Content Disarm & Reconstruction** system.
 > It deconstructs every PDF and DOCX file into atomic components, surgically strips all active threats,
 > and rebuilds a pixel-perfect, mathematically safe document.
 > Powered by **Groq LLaMA 3.3-70B** for AI-driven threat intelligence.
+
+<br/>
+
+<img src="title-image.png" alt="Aegis CDR — Risk Score CRITICAL, 14 threats detected in malicious_test.docx" width="75%" style="border-radius:12px; box-shadow: 0 0 30px rgba(0,212,255,0.3)"/>
+
+<br/>
+<sub><i>Aegis CDR detecting 14 threats in a malicious DOCX — Risk Score 100/CRITICAL — Groq AI analysis active</i></sub>
 
 </div>
 
