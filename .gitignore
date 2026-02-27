@@ -1,0 +1,13 @@
+# Environment
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Temp outputs
+test_files/
+*.pdf (optional — if you don't want test files in repo)
+
+# IDE
+.vscode/
+.idea/
